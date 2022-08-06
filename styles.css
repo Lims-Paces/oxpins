@@ -1420,7 +1420,7 @@ header {
     }
     .team-section .row2 {
         grid-template-columns: repeat(1, 1fr);
-        grid-gap: 20px;
+        grid-gap: 120px;
         margin-inline: auto;
     }
 }
@@ -1428,7 +1428,7 @@ header {
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .team-section .row2 {
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 20px;
+        grid-gap: 120px;
     }
 }
 
